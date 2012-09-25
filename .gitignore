@@ -1,0 +1,10 @@
+bin
+obj
+packages
+
+*resharper*
+*dotcover*
+*ncrunch*
+
+*.suo
+*.user
